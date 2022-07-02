@@ -1,6 +1,6 @@
 # Welcome to The Lonly Panda NFT 💎
 
-![](https://github.com/The-Stripes-NFT/nft-minting-app/blob/main/logo-blob.png)
+
 
 
 
